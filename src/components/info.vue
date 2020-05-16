@@ -29,7 +29,7 @@
         junior web developer v.1.0
     </b-card-text>
     <b-avatar src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/1280px-Facebook_f_logo_%282019%29.svg.png" size="3rem" class="m-1" target="blank" href="https://web.facebook.com/Breimerct"></b-avatar>
-    <b-avatar src="https://www.globetesting.com/wp-content/uploads/2019/01/githublogo.png" size="3rem" class="m-1"></b-avatar>
+    <b-avatar href="https://github.com/Breimerct/AppCovid-19" src="https://www.globetesting.com/wp-content/uploads/2019/01/githublogo.png" size="3rem" class="m-1"></b-avatar>
     </b-modal>
   </div>
 </template>
